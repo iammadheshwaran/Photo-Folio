@@ -1,0 +1,36 @@
+nav {
+    text-transform: uppercase;
+    font-family: "Orbitron", sans-serif;
+    font-size:2em;
+    font-style: normal;
+    text-align: center;
+    border-bottom: 2px solid red;
+    border-width: 3px 0px;
+    margin-left: calc(5%/6);
+    padding: 0.4em 0;
+}
+
+img {
+    
+    width: 32%;
+    margin: calc(10%/48);
+    margin-top: 10px;
+    filter: drop-shadow(rgba(67, 67, 67, 0.459) 0.2rem 0.2rem 2px);
+
+}
+
+#img1, #img2, #img3 {
+    margin-top: 20px;
+}
+
+#img40{
+    width: 97.30%;
+}
+
+h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "Orbitron", sans-serif;
+    font-size:6em;
+    color: red;
+}
